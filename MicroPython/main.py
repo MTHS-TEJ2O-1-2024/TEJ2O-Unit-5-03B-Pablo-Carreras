@@ -1,7 +1,7 @@
 """
-Created by: Mr. Coxall
-Created on: Sep 2020
-This module is a Micro:bit MicroPython program
+Created by: Pablo
+Created on: Sep 2024
+This module is tunr off and on the led
 """
 
 from microbit import *
